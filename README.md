@@ -30,4 +30,4 @@ Réalisation d'un serveur IRC en Node.js.
 > Bientôt disponible..
 
 ## Technologies
-HTML5, CSS3, Javascript, Node.js, Socket.io, React.js
+React.js, Node.js, Socket.io
