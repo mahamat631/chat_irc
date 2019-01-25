@@ -12,6 +12,7 @@ Réalisation d'un serveur IRC en Node.js.
 - Les membres connectés à un channel peuvent envoyer un message à tous les utilisateurs de ce channel
 - Le serveur maintenit à jour la liste des utilisateurs connectés (les sockets) ainsi que des channels(avec la listes des personnes connectées)
 - Commandes d'un IRC de base
+```bash
       - /nick nickname : définit le surnom de l’utilisateur au sein du serveur.
       - /list [string] : liste les channels disponibles sur le serveur. N’affiche que les channels contenant la chaîne “string” si celle-ci est spécifiée.
       - /create channel : créer un channel sur le serveur.
@@ -23,9 +24,10 @@ Réalisation d'un serveur IRC en Node.js.
 - Emojis dans les messages
 - Autocompletion des commandes, channels, users
 - Autolink des #channels et des @usernames
+```
 
 ## Demo
-> https://codepen.io/Lorcann/pen/yZYjGb
+> Bientôt disponible..
 
 ## Technologies
-HTML5, CSS3, Javascript, jQuery
+HTML5, CSS3, Javascript, Node.js, Socket.io, React.js
