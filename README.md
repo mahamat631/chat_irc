@@ -21,10 +21,10 @@ Réalisation d'un serveur IRC en Node.js.
       - /part channel : quitte le channel.
       - /users : liste les utilisateurs connectés au channel.
       - /msg nickname message : envoie un message à un utilisateur spécifique.
+```
 - Emojis dans les messages
 - Autocompletion des commandes, channels, users
 - Autolink des #channels et des @usernames
-```
 
 ## Demo
 > Bientôt disponible..
