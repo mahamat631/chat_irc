@@ -1,4 +1,4 @@
-# Paint-Like
+# Chat IRC
 
 ## Introduction
 Réalisation d'un serveur IRC en Node.js.
