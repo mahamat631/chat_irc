@@ -26,6 +26,15 @@ Réalisation d'un serveur IRC en Node.js.
 - Autocompletion des commandes, channels, users
 - Autolink des #channels et des @usernames
 
+## Installation & Lancement
+- Télécharger le dossier
+- Lancer deux terminale
+- Dans le dossier "client", lancer la commande :
+> npm start
+- Dans le dossier "server", lancer la commande :
+> node index.js
+- Enjoy !
+
 ## Demo
 > Bientôt disponible..
 
